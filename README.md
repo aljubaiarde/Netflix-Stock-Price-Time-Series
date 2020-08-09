@@ -5,6 +5,14 @@ The Project analyse Netflix historical stock price data from 2010 to 2020 and pr
 ## Motivation
 I am a movie-freak. I love to watch movies and web series. Netflix is creating a revolution in the field of streaming web series and movies.  Recently I was watching a conference of Pydata on youtube about time series prediction. That conference motivates me to work on a time series model.  So I thought it would be fun and exciting to work on Netflix stock price
 
+## Key Features
+- Time-Series
+- Stationarity
+- Eliminating trend and seasonality
+- ACF and PACF
+- Handling Datetime
+
+
 ## Tools
 #### Environment
 - Google Colaboratory
